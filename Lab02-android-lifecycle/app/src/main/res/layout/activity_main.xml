@@ -11,14 +11,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:text="Heads"
-        android:textSize="30sp" />
-
-    <Button
-        android:id="@+id/flip_button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:text="Flip Coin" />-->
+        android:textSize="30sp" />-->
 
     <Button
         android:id="@+id/about_us"
