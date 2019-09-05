@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LoremGenerator</string>
+    <string name="title_text">Lorem Generator</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="lorem_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Nam egestas maximus vestibulum. Aliquam hendrerit, nulla a suscipit tincidunt,
+        elit ipsum ornare nibh, a dapibus odio tellus eget justo. Orci varius natoque penatibus
+        et magnis dis parturient montes, nascetur ridiculus mus. Maecenas leo nisl, tristique et
+        est et, aliquet rhoncus metus. In condimentum tristique fringilla. Nunc vestibulum sem et
+        euismod tempus. In volutpat nibh sapien, eu vehicula erat porttitor id. Etiam in justo vel
+        eros venenatis lacinia sit amet varius diam. Vestibulum malesuada vitae magna eu eleifend.
+        Duis rutrum nibh ac quam tincidunt, ac tincidunt justo congue. Ut pellentesque rutrum elit,
+        vitae tempor purus malesuada non. Fusce congue elementum dictum. Quisque eu turpis commodo,
+        facilisis sapien at, accumsan tellus. Phasellus finibus est turpis, sed fermentum mi
+        fermentum vitae. Ut sit amet blandit lorem. Nunc nec laoreet sem, ultricies hendrerit nisl.</string>
+    <string name="creator_fill_placeholder">Created by me</string>
+    <string name="confirm_button">Confirm</string>
+</resources>
